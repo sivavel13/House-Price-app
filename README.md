@@ -40,13 +40,13 @@ Deploy and run the application for real users
 
 #### 📁 Project Structure
 House-Price-App/
-├── app.py                  # Flask application
-├── model.pkl               # Trained ML model
-├── requirements.txt        # Dependencies
-├── Procfile                # Render start command
+├── app.py # Flask application
+├── model.pkl # Trained ML model
+├── requirements.txt # Dependencies
+├── Procfile # Render start command
 ├── templates/
-│   └── index.html          # Frontend UI
-└── README.md               # Project documentation
+│ └── index.html # Frontend UI
+└── README.md # Project documentation
 
 #### ⚙️ How It Works
 User enters house details via the web UI
